@@ -13,10 +13,10 @@ You can also specify both the `input_directory` and `mapping_file` arguments if 
 `python main.py --input_directory ./input --mapping_file output_mapping.json`
 
 ### Prerequisites
-* Python 3.6 or higher
-* The following Python packages:
-* `requests`
-* `tqdm`
+1. Python 3.6 or higher
+2. The following Python packages:
+   * `requests`
+   * `tqdm`
 
 ### Note
 *This project was mainly created for my personal purposes and for another project I am working on.*
