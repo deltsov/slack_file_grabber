@@ -17,3 +17,6 @@ You can also specify both the `input_directory` and `mapping_file` arguments if 
 * The following Python packages:
 * `requests`
 * `tqdm`
+
+### Note
+This project was mainly created for my personal purposes and for another project I am working on.
